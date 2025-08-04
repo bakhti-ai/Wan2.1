@@ -1,6 +1,6 @@
 # Wan2.1 Text-to-Video Model
 
-This repository contains the Wan2.1 text-to-video model, adapted for macOS with M1 Pro chip. This adaptation allows macOS users to run the model efficiently, overcoming CUDA-specific limitations.
+This repository contains the Wan2.1 text-to-video model, adapted for macOS. This adaptation allows macOS users to run the model efficiently, overcoming CUDA-specific limitations.
 
 ## Introduction
 
